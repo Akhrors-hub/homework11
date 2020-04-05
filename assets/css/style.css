@@ -10,9 +10,9 @@
 body {
     background-color: #d9dcd6;
 }
-/* media query larger than 600px */
+/* media query larger than 1000px */
 
-@media screen and (min-width: 600px)
+@media screen and (min-width: 1000px)
 {
 
 
@@ -212,9 +212,9 @@ aside {
 
 
 
-/* this is the media query smaller than 600px */
+/* this is the media query smaller than 1000px */
 
-@media screen and (max-width:599px) {
+@media screen and (max-width:999px) {
 
 
     
@@ -227,7 +227,7 @@ aside {
     }
     
     header h1 {
-        /* display: inline-block; */
+        display: inline-block;
         font-size: 48px;
     }
     
@@ -289,6 +289,7 @@ aside {
     
     aside {
         /* margin-right: 20px; */
+        margin-top: 20px;
         padding: 20px;
         clear: both;
         float: left;
@@ -296,6 +297,7 @@ aside {
         height: 100%;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         background-color: #2589bd;
+      
     }
     
     .benefit-lead {
