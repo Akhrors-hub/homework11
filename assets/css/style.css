@@ -10,7 +10,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* media query larger than 1000px */
+/* media query larger than 1020px */
 
 @media screen and (min-width: 1020px)
 {
@@ -212,7 +212,7 @@ aside {
 
 
 
-/* this is the media query smaller than 1000px */
+/* this is the media query smaller than 1020px */
 
 @media screen and (max-width:1019px) {
 
