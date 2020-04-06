@@ -200,11 +200,13 @@ aside {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    background-color: #2a607c;
+    color: whitesmoke;
 }
 
 
@@ -404,11 +406,13 @@ aside {
         font-size: 36px;
     }
     
-    .footer {
+    footer {
         padding: 30px;
         clear: both;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         text-align: center;
+        background-color: #2a607c;
+        color: whitesmoke;
     }
 
 
